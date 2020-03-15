@@ -2,6 +2,9 @@
 {
     public enum Colors
     {
-        
+        Red = 1,
+        Blue,
+        Green,
+        Yellow
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace Task_003
 {
-    public class Accauntant
+    public class Accountant
     {
         public bool AskForBonus(Positions worker, int hours)
         {
